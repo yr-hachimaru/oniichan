@@ -1,0 +1,121 @@
+:root {
+
+/* COLORES ----------------------------------------------------------------------*/
+    --h1-color: #E0E0E0;
+    --h2-color: #1d80ea;
+    --h3-color: #ffc947; /* <---- */
+    --h4-color: #10b618;
+    --h5-color: #df421f;
+    --h6-color: #d430ab;
+
+    --bold-color: #ffc947;
+    --italic-color: #60b7ff;
+
+    --link-internal: #ffc947;
+    --link-internal-hover: #ff6b6b;
+
+    --highlight_bg: #2f43d7;
+    --highlight_fg: #ffffff;
+
+}
+
+
+/* TEXTO ESPECIAL ----------------------------------------------------------------*/
+
+    /* NEGRITA -------------------------------------------------------------------*/
+
+strong, .cm-strong {
+  font-family: var(--tech-font) !important;
+}
+    /* LINK ----------------------------------------------------------------------*/
+
+a.internal-link,
+a.external-link,
+.cm-hmd-internal-link,
+.cm-link,
+.cm-url {
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.15em;
+}
+
+a.internal-link,
+.cm-hmd-internal-link,
+.markdown-rendered .internal-link {
+  color: var(--link-internal) !important;
+  text-decoration: none !important;
+}
+
+a.internal-link:hover,
+.cm-hmd-internal-link:hover,
+.markdown-rendered .internal-link:hover {
+  color: var(--link-internal-hover) !important;
+  text-decoration: none !important;
+}
+
+/* clave: quitar el underline del token interno */
+.cm-hmd-internal-link .cm-underline,
+.cm-link .cm-underline {
+  text-decoration: none !important;
+}
+
+
+/* TEXTO NORMAL -----------------------------------------------------------------*/
+
+body{
+/* ALINEACIÓN -------------------------------------------------------------------*/
+    --file-line-width: 900px;
+    text-align: justify;
+    text-justify: inter-word;
+    
+    /* Intentar justificación de texto en listas, manteniendo alineación de los bulletpoints */
+    .markdown-source-view .cm-line:not(.HyperMD-list-line, .HyperMD-quote, .HyperMD-codeblock) {
+      text-align: justify;
+    }
+
+    /* Mantener alineación a la izquierda en listas*/
+    .markdown-source-view .HyperMD-list-line {
+      text-align: left; /* or remove this line if you want specific custom alignment */
+    }   
+  }
+
+
+/* WORKSPACE -------------------------------------------------------------------*/
+
+.workspace-tab-header:has(.mod-pinned) {
+  max-width: 50px !important;
+  .workspace-tab-header-inner-title {
+    display: none;
+  }
+}
+
+/* Hide pin icon in main tabs */
+.mod-root .mod-pinned {
+    display: none;
+}
+
+mark,
+.markdown-rendered mark,
+.cm-s-obsidian span.cm-highlight,
+.cm-s-obsidian span.cm-formatting-highlight {
+  background: var(--highlight_bg) !important;
+  color: var(--highlight_fg) !important;
+  border-radius: 0.25em !important;
+  -webkit-box-decoration-break: clone;
+  padding: 1px;
+  box-decoration-break: clone;
+}
+
+
+
+
+/* ===== NO STRIKETHROUGH - EDITING VIEW (Source Mode / Canvas 6) ===== */
+.HyperMD-list-line[data-task="x"],
+.HyperMD-list-line[data-task="X"],
+.HyperMD-task-line[data-task="x"],
+.HyperMD-task-line[data-task="X"],
+.HyperMD-task-line[data-task]:not([data-task=" "]),
+.cm-line .HyperMD-task-line[data-task="x"],
+.cm-line .HyperMD-task-line[data-task="X"],
+.cm-taskListItem.checked {
+  text-decoration: underline !important;
+}

@@ -1,0 +1,295 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7a7b303c61786dc",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. BANDEJA.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "0. BANDEJA"
+                }
+              },
+              {
+                "id": "6ec9539ac3bbf12d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. DIARIO/260612.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "260612"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3e4861eb0e0ba69c",
+        "type": "split",
+        "children": [
+          {
+            "id": "72ebc49cca8fd7ec",
+            "type": "tabs",
+            "dimension": 20.607175712971483,
+            "children": [
+              {
+                "id": "855c619f28fbc46d",
+                "type": "leaf",
+                "state": {
+                  "type": "vertical-tabs",
+                  "state": {},
+                  "icon": "vertical-tabs",
+                  "title": "Vertical tabs"
+                }
+              },
+              {
+                "id": "8e6415ad9468fd1d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "93f3eff077e312cf",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6ff0d05448a02823",
+            "type": "tabs",
+            "dimension": 79.39282428702852,
+            "children": [
+              {
+                "id": "042317fd49b0f25d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 344.5
+      },
+      "right": {
+        "id": "fcb88a117cc4f554",
+        "type": "split",
+        "children": [
+          {
+            "id": "6004596e5a7d51ff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f2ab6bac16e9a5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0. DIARIO/260612.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 260612"
+                }
+              },
+              {
+                "id": "f328543bcb087c7b",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "4862affe2ad4912c",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              },
+              {
+                "id": "c59c4a4da27c5c46",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "0. BANDEJA.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "72118dda83cb399d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0. BANDEJA.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 0. BANDEJA"
+                }
+              },
+              {
+                "id": "bb1f6bdeccb8ba17",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0. BANDEJA.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 0. BANDEJA"
+                }
+              },
+              {
+                "id": "acae5c2feea21a28",
+                "type": "leaf",
+                "state": {
+                  "type": "ReferenceListView",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "ReferenceListView"
+                }
+              },
+              {
+                "id": "49105171095b6654",
+                "type": "leaf",
+                "state": {
+                  "type": "copilot-chat-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "copilot-chat-view"
+                }
+              },
+              {
+                "id": "db5e727344adee21",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "09d1f402367d88a7",
+                "type": "leaf",
+                "state": {
+                  "type": "transcript-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "transcript-view"
+                }
+              },
+              {
+                "id": "2e11173569864ec7",
+                "type": "leaf",
+                "state": {
+                  "type": "transcript-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "transcript-view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 347.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "bases:Create new base": false,
+          "workspaces:Manage workspace layouts": false,
+          "daily-notes:Open today's daily note": false,
+          "copilot:Open Copilot Chat": false,
+          "obsidian-git:Open Git source control": false,
+          "iconic:Open rulebook": false,
+          "homepage:Open homepage": false
+        }
+      },
+      "active": "6ec9539ac3bbf12d",
+      "mtime": "2026-06-12T23:42:45+02:00"
+    }
+  },
+  "active": "Default"
+}
