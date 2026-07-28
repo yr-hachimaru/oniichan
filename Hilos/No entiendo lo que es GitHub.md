@@ -1,0 +1,2 @@
+- Y aquí te respondería o lo dejaría para luego como estoy haciendo ahora porque no me siento en modo Feynman ahora mismo teheheheheh
+	- Y aquí podrías hacer otra pregunta por ejemplo [[Pregunta]]

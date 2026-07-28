@@ -69,16 +69,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yan/Master.pericial.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master.pericial"
+              "title": "README"
+            }
+          },
+          {
+            "id": "b5eb7ddff649832d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "65e31e3c4f8fb508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hilos/No entiendo lo que es GitHub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "No entiendo lo que es GitHub"
+            }
+          },
+          {
+            "id": "4e0b04e498d46ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -161,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yan/Master.pericial.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Master.pericial"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -264,14 +306,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "cceb44639cff467b",
+  "active": "4e0b04e498d46ffe",
   "lastOpenFiles": [
+    "Hilos/Pregunta.md",
+    "Hilos/No entiendo lo que es GitHub.md",
+    "Hilos",
     "README.md",
+    "Yan/Master.pericial.md",
     "Yan/Yan.md",
     "Ti.md",
     "Alberto/index.alberto.md",
     "Alberto/Alberto.md",
-    "Yan/Master.pericial.md",
     "Yan",
     "Alberto"
   ]

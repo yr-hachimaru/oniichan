@@ -8,7 +8,8 @@
 	- Colores automáticos para headers, negritas, cursivas... (esto se maneja todo en el archivo .css, que lo he limpiado un poco para que sea bastante intuitivo de entender cómo funciona). 
 	- Modo máquina de escribir, que a mí me gusta porque además le he puesto un modo focus que me sube la luminancia de la línea en la que estoy trabajando. 
 - Esto está ya sincronizado con github (por lo menos desde mi lado), así que también facilita mucho introducirte a este tema, que es bastante farragoso al principio. Para no liarse, lo mejor es que si quieres hacer algún cambio aquí lo hagas en tu propia [carpeta](index.alberto.md), antes de intentar hacer virguerías con control de deltas, branches, pushes, pulls,  etc. (porque de eso yo tampoco controlo todavía). 
-
 - - -
-
 - Dicho esto, hago *Alt+1* (quizás **Win+1** en teclados Windows), y creo este precioso link para llevarte a lo que tenía escrito sobre temas del máster de pericial : [[Master.pericial]]
+- - -
+- Se pueden pensar muchas formas chulas de trabajar, por ejemplo, se me ocurre crear un template de "pregunta" y otro de "respuesta". La interconexión entre preguntas y respuestas concatenadas a través de hipervínculos constituiría una "conversación", que sería fácil de representar en una nota tipo "index", que simplemente listaría en texto plano todos los links a cada interacción en orden cronológico (es fácil de automatizar si usas dataview, o alguna IA local). 
+- **Pregunta**: [[No entiendo lo que es GitHub]]

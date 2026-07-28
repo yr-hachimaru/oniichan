@@ -1,0 +1,1 @@
+- Y entonces te daría una respuesta. Pero bueno, hay muchas formas elegantes de hacer esto, habría que ver de forma orgánica cómo emerge la mejor solución.
