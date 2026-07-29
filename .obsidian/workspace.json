@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "GitHub Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from GitHub Tutorial"
             }
           },
           {
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "GitHub Tutorial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of GitHub Tutorial"
             }
           },
           {
@@ -222,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "433dab80c5d45da2",
+  "active": "883cb393ff0459c5",
   "lastOpenFiles": [
     "Mi primer branch.md",
     "GitHub Tutorial.md",
