@@ -34,7 +34,8 @@
       "icon": "lucide-image",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ],
       "color": "#ffffff"
     },
@@ -42,7 +43,8 @@
       "icon": "lucide-archive",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ],
       "color": "#ffffff"
     },
@@ -51,7 +53,8 @@
       "color": "purple",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ]
     },
     "0. BANDEJA.md": {
@@ -64,7 +67,8 @@
       "icon": "lucide-circuit-board",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ]
     },
     "0. DIARIO": {
@@ -72,7 +76,8 @@
       "color": "#ffffff",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ]
     },
     "0. DIARIO.md": {
@@ -82,7 +87,8 @@
       "icon": "lucide-code-square",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ],
       "color": "#ffffff"
     },
@@ -90,7 +96,8 @@
       "icon": "lucide-copy-slash",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ],
       "color": "#ffffff"
     },
@@ -99,7 +106,8 @@
       "color": "#ffffff",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ]
     },
     "2. DICCIONARIO": {
@@ -107,14 +115,16 @@
       "color": "#ffffff",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ]
     },
     "3. INDEX": {
       "icon": "lucide-list-indent-increase",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ],
       "color": "#ffffff"
     },
@@ -122,7 +132,8 @@
       "icon": "lucide-book-text",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ],
       "color": "#ffffff"
     },
@@ -130,7 +141,8 @@
       "icon": "lucide-pen-tool",
       "unsynced": [
         "e3de440a4a89b869",
-        "3e7bcbebe3a17d43"
+        "3e7bcbebe3a17d43",
+        "fb52ba6cfda78c90"
       ],
       "color": "#ffffff"
     }

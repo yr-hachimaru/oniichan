@@ -70,33 +70,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "README.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 357,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.19,
-      "characterCount": 2378,
-      "nonWhitespaceCharacterCount": 1988,
-      "newlineCount": 16,
-      "readingTimeInMinutes": 1.3471698113207546,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785268581131,
-      "modifiedDate": 1785271154303,
-      "sizeInBytes": 2415,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.19,
-        "wordCount": 357,
-        "characterCount": 2378,
-        "nonWhitespaceCharacterCount": 1988,
-        "newlineCount": 16
-      }
-    },
     "Yan/Yan.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -149,6 +122,33 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 357,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.19,
+      "characterCount": 2378,
+      "nonWhitespaceCharacterCount": 1988,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 1.3471698113207546,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1785268581131,
+      "modifiedDate": 1785271154303,
+      "sizeInBytes": 2415,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.19,
+        "wordCount": 357,
+        "characterCount": 2378,
+        "nonWhitespaceCharacterCount": 1988,
+        "newlineCount": 16
       }
     },
     "Hilos/Pregunta.md": {
@@ -205,33 +205,6 @@
         "newlineCount": 0
       }
     },
-    "Alberto/index.alberto.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1785269314183,
-      "modifiedDate": 1785269494063,
-      "sizeInBytes": 434,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Alberto/Alberto.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -250,6 +223,33 @@
       "createdDate": 1785269498271,
       "modifiedDate": 1785269506098,
       "sizeInBytes": 15,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Alberto/index.alberto.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1785269314183,
+      "modifiedDate": 1785269494063,
+      "sizeInBytes": 434,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
