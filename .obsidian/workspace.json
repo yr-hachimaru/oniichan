@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +222,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "cff37851a53f6662",
+  "active": "883cb393ff0459c5",
   "lastOpenFiles": [
     "GitHub Tutorial.md",
     "Branches.md",
