@@ -8,5 +8,6 @@
 5. Realizar algún cambio
 6. git add .
 7. git commit -m "*descripción del cambio*"
-8. git push origin HEAD
-9. username + personal access token
+8. git config --global push.default current   
+9. git push 
+10. username + personal access token
