@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "433dab80c5d45da2",
+
   "lastOpenFiles": [
     "Mi primer branch.md",
     "GitHub Tutorial.md",
