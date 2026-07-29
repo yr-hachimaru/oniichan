@@ -7,7 +7,7 @@
 4. git switch *nombre_branch*
 5. Realizar algún cambio
 6. git add .
-7. git commit -m "*descripción del cambio*"
+7. git commit -m "*descripción del cambio*" 
 8. git config --global push.default current   
-9. git push 
+9. git push origin HEAD
 10. username + personal access token
