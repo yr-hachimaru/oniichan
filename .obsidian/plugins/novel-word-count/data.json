@@ -70,193 +70,31 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "Yan/Yan.md": {
+    "Alberto/Alberto.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 6,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 42,
-      "nonWhitespaceCharacterCount": 36,
+      "pageCount": 0.01,
+      "characterCount": 14,
+      "nonWhitespaceCharacterCount": 11,
       "newlineCount": 1,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 1,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1785345146236,
-      "modifiedDate": 1785345146236,
-      "sizeInBytes": 43,
+      "createdDate": 1785269498271,
+      "modifiedDate": 1785269506098,
+      "sizeInBytes": 15,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 42,
-        "nonWhitespaceCharacterCount": 36,
+        "pageCount": 0.01,
+        "wordCount": 3,
+        "characterCount": 14,
+        "nonWhitespaceCharacterCount": 11,
         "newlineCount": 1
-      }
-    },
-    "Yan/README.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 357,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.19,
-      "characterCount": 2379,
-      "nonWhitespaceCharacterCount": 1988,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 1.3471698113207546,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785345146236,
-      "modifiedDate": 1785345146236,
-      "sizeInBytes": 2416,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.19,
-        "wordCount": 357,
-        "characterCount": 2379,
-        "nonWhitespaceCharacterCount": 1988,
-        "newlineCount": 17
-      }
-    },
-    "Yan/Master.pericial.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 891,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.97,
-      "characterCount": 9187,
-      "nonWhitespaceCharacterCount": 6436,
-      "newlineCount": 64,
-      "readingTimeInMinutes": 3.362264150943396,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785345146236,
-      "modifiedDate": 1785345146236,
-      "sizeInBytes": 9370,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.97,
-        "wordCount": 891,
-        "characterCount": 9187,
-        "nonWhitespaceCharacterCount": 6436,
-        "newlineCount": 64
-      }
-    },
-    "Hilos/Pregunta.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 155,
-      "nonWhitespaceCharacterCount": 129,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785345146235,
-      "modifiedDate": 1785345146236,
-      "sizeInBytes": 160,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08666666666666667,
-        "wordCount": 26,
-        "characterCount": 155,
-        "nonWhitespaceCharacterCount": 129,
-        "newlineCount": 1
-      }
-    },
-    "Hilos/No entiendo lo que es GitHub.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 32,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 196,
-      "nonWhitespaceCharacterCount": 162,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.12075471698113208,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785345146235,
-      "modifiedDate": 1785345146235,
-      "sizeInBytes": 201,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.10666666666666667,
-        "wordCount": 32,
-        "characterCount": 196,
-        "nonWhitespaceCharacterCount": 162,
-        "newlineCount": 2
-      }
-    },
-    "GitHub Tutorial.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 44,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 301,
-      "nonWhitespaceCharacterCount": 248,
-      "newlineCount": 13,
-      "readingTimeInMinutes": 0.1660377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785345146235,
-      "modifiedDate": 1785345146235,
-      "sizeInBytes": 303,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.14666666666666667,
-        "wordCount": 44,
-        "characterCount": 301,
-        "nonWhitespaceCharacterCount": 248,
-        "newlineCount": 13
-      }
-    },
-    "Branches.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 96,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.32,
-      "characterCount": 636,
-      "nonWhitespaceCharacterCount": 534,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.3622641509433962,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785345146235,
-      "modifiedDate": 1785345146235,
-      "sizeInBytes": 644,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.32,
-        "wordCount": 96,
-        "characterCount": 636,
-        "nonWhitespaceCharacterCount": 534,
-        "newlineCount": 5
       }
     },
     "Alberto/index.alberto.md": {
@@ -274,8 +112,8 @@
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1785345146235,
-      "modifiedDate": 1785345146235,
+      "createdDate": 1785269314183,
+      "modifiedDate": 1785269494063,
       "sizeInBytes": 434,
       "sessionStart": {
         "noteCount": 1,
@@ -286,88 +124,7 @@
         "newlineCount": 9
       }
     },
-    "Alberto/Alberto.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 14,
-      "nonWhitespaceCharacterCount": 11,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785345146235,
-      "modifiedDate": 1785345146235,
-      "sizeInBytes": 15,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 14,
-        "nonWhitespaceCharacterCount": 11,
-        "newlineCount": 1
-      }
-    },
-    "oniichan/Alberto/Alberto.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 14,
-      "nonWhitespaceCharacterCount": 11,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785348760299,
-      "modifiedDate": 1785348760299,
-      "sizeInBytes": 15,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "oniichan/Alberto/index.alberto.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 51,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17,
-      "characterCount": 427,
-      "nonWhitespaceCharacterCount": 336,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.19245283018867926,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785348760299,
-      "modifiedDate": 1785348760299,
-      "sizeInBytes": 434,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "oniichan/Branches.md": {
+    "Branches.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -382,8 +139,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1785348760299,
-      "modifiedDate": 1785348760299,
+      "createdDate": 1785352227543,
+      "modifiedDate": 1785352227543,
       "sizeInBytes": 644,
       "sessionStart": {
         "noteCount": 0,
@@ -394,7 +151,7 @@
         "newlineCount": 0
       }
     },
-    "oniichan/GitHub Tutorial.md": {
+    "GitHub Tutorial.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -409,8 +166,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1785348760299,
-      "modifiedDate": 1785348760299,
+      "createdDate": 1785352227543,
+      "modifiedDate": 1785352227543,
       "sizeInBytes": 303,
       "sessionStart": {
         "noteCount": 0,
@@ -421,7 +178,7 @@
         "newlineCount": 0
       }
     },
-    "oniichan/Hilos/No entiendo lo que es GitHub.md": {
+    "Hilos/No entiendo lo que es GitHub.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -436,8 +193,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1785348760299,
-      "modifiedDate": 1785348760299,
+      "createdDate": 1785352227543,
+      "modifiedDate": 1785352227543,
       "sizeInBytes": 201,
       "sessionStart": {
         "noteCount": 0,
@@ -448,7 +205,7 @@
         "newlineCount": 0
       }
     },
-    "oniichan/Hilos/Pregunta.md": {
+    "Hilos/Pregunta.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -463,8 +220,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1785348760299,
-      "modifiedDate": 1785348760299,
+      "createdDate": 1785352227543,
+      "modifiedDate": 1785352227543,
       "sizeInBytes": 160,
       "sessionStart": {
         "noteCount": 0,
@@ -475,7 +232,34 @@
         "newlineCount": 0
       }
     },
-    "oniichan/Yan/Master.pericial.md": {
+    "Mi primer branch.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 56,
+      "nonWhitespaceCharacterCount": 47,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1785352227543,
+      "modifiedDate": 1785352227543,
+      "sizeInBytes": 59,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Yan/Master.pericial.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -490,8 +274,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1785348760299,
-      "modifiedDate": 1785348760299,
+      "createdDate": 1785352227543,
+      "modifiedDate": 1785352227543,
       "sizeInBytes": 9370,
       "sessionStart": {
         "noteCount": 0,
@@ -502,7 +286,7 @@
         "newlineCount": 0
       }
     },
-    "oniichan/Yan/README.md": {
+    "Yan/README.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -517,8 +301,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1785348760299,
-      "modifiedDate": 1785348760299,
+      "createdDate": 1785352227543,
+      "modifiedDate": 1785352227543,
       "sizeInBytes": 2416,
       "sessionStart": {
         "noteCount": 0,
@@ -529,11 +313,24 @@
         "newlineCount": 0
       }
     },
-    "oniichan/Yan/Yan.md": {
+    "Yan/Yan.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 42,
+      "nonWhitespaceCharacterCount": 36,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1785352227543,
+      "modifiedDate": 1785352227543,
+      "sizeInBytes": 43,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

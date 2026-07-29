@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cff37851a53f6662",
+            "id": "47550153eb294e41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub Tutorial.md",
+                "file": "Yan/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Tutorial"
-            }
-          },
-          {
-            "id": "433dab80c5d45da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GitHub Tutorial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GitHub Tutorial"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.500732421875
+    "width": 299.5026054382324
   },
   "right": {
     "id": "04f26dbd1d43310e",
@@ -211,45 +196,34 @@
     "hiddenItems": {
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
+      "iconic:Open rulebook": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-
+  "active": "0f9e3bf36aa35271",
   "lastOpenFiles": [
+    "oniichan",
+    "Yan/Yan.md",
+    "Yan/README.md",
+    "Yan/Master.pericial.md",
+    "Yan",
     "Mi primer branch.md",
+    "Hilos/Pregunta.md",
+    "Hilos/No entiendo lo que es GitHub.md",
+    "Hilos",
     "GitHub Tutorial.md",
     "Branches.md",
-    "oniichan/Yan/Yan.md",
-    "oniichan/Yan/README.md",
-    "oniichan/Yan/Master.pericial.md",
-    "oniichan/Yan",
-    "oniichan/Hilos/Pregunta.md",
-    "oniichan/Hilos/No entiendo lo que es GitHub.md",
-    "oniichan/Hilos",
-    "oniichan/GitHub Tutorial.md",
-    "oniichan/Branches.md",
-    "oniichan/Alberto/index.alberto.md",
-    "oniichan/Alberto/Alberto.md",
-    "oniichan/Alberto",
-    "oniichan",
-    "Yan/README.md",
-    "Hilos/No entiendo lo que es GitHub.md",
+    "conflict-files-obsidian-git.md",
     "Alberto/index.alberto.md",
-    "Hilos/Pregunta.md",
-    "Hilos",
-    "Yan/Master.pericial.md",
-    "Yan/Yan.md",
     "Ti.md",
     "Alberto/Alberto.md",
-    "Yan",
     "Alberto"
   ]
 }
