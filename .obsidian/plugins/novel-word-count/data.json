@@ -221,7 +221,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1785351944804,
-      "modifiedDate": 1785351944804,
+      "modifiedDate": 1785352295043,
       "sizeInBytes": 315,
       "sessionStart": {
         "noteCount": 1,
@@ -601,6 +601,33 @@
       "createdDate": 1785351476701,
       "modifiedDate": 1785351494603,
       "sizeInBytes": 29,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Hilos/Friday the 13th.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 2,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1785352562909,
+      "modifiedDate": 1785352583416,
+      "sizeInBytes": 3,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

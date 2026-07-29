@@ -1,0 +1,1 @@
+Es muy interesante el hecho de que las pelis slasher empezaran a raíz de este fenómeno de *summer camp* americano
