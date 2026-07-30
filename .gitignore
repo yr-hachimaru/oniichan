@@ -1,8 +1,3 @@
-/.obsidian
-.obsidian
-/.obsidian/
-.obsidian/
-
 # Ignore all Obsidian configuration
 .obsidian/*
 
@@ -10,3 +5,4 @@
 .DS_Store
 Thumbs.db
 .trash/   
+/.obsidian
