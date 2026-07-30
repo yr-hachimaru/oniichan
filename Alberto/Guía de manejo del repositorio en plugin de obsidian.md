@@ -7,3 +7,4 @@ Me planto con algo más que casi se me olvida. Estoy registrando cómo manejar d
 	git add . <utilizado para añadir cualquier modificación que hagas en el vault>
 	git pull <utilizado para igualar las versiones de aquello que está escrito en el repositorio y evitar que se produzcan discordancias>
 	git push <utilizado para subir al repositorio los cambios realizados, dejando previsto el cambio de versiones para hacer una solicitud de revisión de *commit* en el repositorio de Github>
+Este es el cambio que estoy imprimiendo a modo de prueba
