@@ -1,8 +1,11 @@
 # Ignore all Obsidian configuration
 .obsidian/*
+/.obsidian
 
 # System files
 .DS_Store
 Thumbs.db
 .trash/   
-/.obsidian
+
+# Ignore Smart Environment folder
+.smart-env
