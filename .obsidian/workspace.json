@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alberto/Diario 260829.md",
+                "file": "Alberto/index.alberto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diario 260829"
+              "title": "index.alberto"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "47550153eb294e41",
   "lastOpenFiles": [
+    "Alberto/Diario 260829.md",
     "Alberto/index.alberto.md",
     "certificado SSH.md",
     "Branches.md",
