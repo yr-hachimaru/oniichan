@@ -11,4 +11,4 @@
 9. git push 
 10. username + personal access token
 
-- [ ] Completar con nota de Alberto
+- [x] Completar con nota de Alberto
