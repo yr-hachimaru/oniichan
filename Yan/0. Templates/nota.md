@@ -12,7 +12,9 @@ tipo: nota
 # BODY
 - - -
 ## Head
+
 ## Body
+
 ## Tail
 
 
