@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alberto/index.alberto.md",
+                "file": "Alberto/Mi primer branch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.alberto"
+              "title": "Mi primer branch"
             }
           }
         ]
@@ -207,18 +207,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "883cb393ff0459c5",
+  "active": "0f9e3bf36aa35271",
   "lastOpenFiles": [
-    "oniichan",
+    "README.md",
+    "Yan/2. Nota/GitHub Tutorial.md",
+    "Yan/2. Nota/Branches.md",
     "certificado SSH.md",
-    "Alberto/Diario 260829.md",
+    "Yan/2. Nota/Master.pericial.md",
     "Alberto/index.alberto.md",
-    "Branches.md",
-    "Mi primer branch.md",
-    "GitHub Tutorial.md",
-    "Yan/README.md",
+    "Yan/2. Nota",
+    "Yan/1. Index",
+    "Yan/0. Inbox",
+    "Yan/Untitled.md",
+    "oniichan",
+    "Alberto/Diario 260829.md",
+    "Alberto/Mi primer branch.md",
     "Yan/Yan.md",
-    "Yan/Master.pericial.md",
     "Yan",
     "Hilos/Pregunta.md",
     "Hilos/No entiendo lo que es GitHub.md",
