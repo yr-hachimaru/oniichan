@@ -4,12 +4,8 @@ aliases:
 tags:
   - plantilla
 ---
-### Abstract
+## META
+- [[orphan]]
+## BODY
 
-### Antecedentes
-
-### Resultados
-
-### Discusión
-
-### Referencias
+## SOURCE

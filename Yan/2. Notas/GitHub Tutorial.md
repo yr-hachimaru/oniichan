@@ -1,5 +1,4 @@
-
-### Checklist
+### Checklist básica
 
 1. git init
 2. git clone *nombre_repositorio* 
@@ -11,3 +10,5 @@
 8. git config --global push.default current   
 9. git push 
 10. username + personal access token
+
+- [ ] Completar con nota de Alberto

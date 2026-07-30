@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yan/Yan.md",
+                "file": "Común/No entiendo lo que es GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yan"
+              "title": "No entiendo lo que es GitHub"
+            }
+          },
+          {
+            "id": "b96acaf7f072a5ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yan/1. Index/Cosas Interesantes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosas Interesantes"
+            }
+          },
+          {
+            "id": "16d6360dfdc9ed22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yan/0. Inbox/Cuchillos de hoja fija.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cuchillos de hoja fija"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,28 +226,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "47550153eb294e41",
+  "active": "16d6360dfdc9ed22",
   "lastOpenFiles": [
+    "ANEXOS/Pasted image 20260730160255.png",
+    "ANEXOS/Pasted image 20260730160009.png",
+    "ANEXOS",
+    "Yan/0. Inbox/Branches.md",
     "Yan/0. Templates/nota.md",
+    "Yan/2. Notas/GitHub Tutorial.md",
+    "Yan/0. Inbox/Master.pericial.md",
+    "Yan/0. Inbox/Cuchillos de hoja fija.md",
+    "Yan/0. Templates/index.md",
+    "Yan/1. Index/orphan.md",
     "Yan/Yan.md",
+    "Yan/1. Index/Cosas Interesantes.md",
+    "Común/No entiendo lo que es GitHub.md",
+    "Común/Pregunta.md",
     "Yan/0. Templates",
     "Alberto/Mi primer branch.md",
     "README.md",
-    "Yan/2. Nota/GitHub Tutorial.md",
-    "Yan/0. Inbox/Branches.md",
     "certificado SSH.md",
-    "Yan/2. Nota/Master.pericial.md",
     "Alberto/index.alberto.md",
-    "Yan/2. Nota",
+    "Yan/2. Notas",
     "Yan/1. Index",
     "Yan/0. Inbox",
     "Yan/Untitled.md",
     "oniichan",
     "Alberto/Diario 260829.md",
     "Yan",
-    "Hilos/Pregunta.md",
-    "Hilos/No entiendo lo que es GitHub.md",
-    "Hilos",
+    "Común",
     "conflict-files-obsidian-git.md",
     "Ti.md",
     "Alberto/Alberto.md",
