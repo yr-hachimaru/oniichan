@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47550153eb294e41",
+            "id": "56555746746f9f0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Común/No entiendo lo que es GitHub.md",
+                "file": "Alberto/Diario 260829.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "No entiendo lo que es GitHub"
+              "title": "Diario 260829"
             }
           },
           {
-            "id": "29de160d63abfac1",
+            "id": "f38cb59029330dd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yan/Yan.md",
+                "file": "Alberto/Guía de manejo del repositorio en plugin de obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yan"
-            }
-          },
-          {
-            "id": "07cfb4a3dccaf490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Guía de manejo del repositorio en plugin de obsidian"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:untagged",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,12 +88,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "d6f80296b80d6115",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.5
   },
   "right": {
     "id": "04f26dbd1d43310e",
@@ -209,56 +205,62 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "iconic:Open rulebook": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07cfb4a3dccaf490",
+  "active": "0f9e3bf36aa35271",
   "lastOpenFiles": [
-    "Yan/Yan.md",
-    "conflict-files-obsidian-git.md",
-    "Yan/2. Notas/Cuchillos de hoja fija.md",
+    "Alberto/Diario 260829.md",
+    "Alberto/Guía de manejo del repositorio en plugin de obsidian.md",
+    "Alberto/index.alberto.md",
+    "Alberto/Mi primer branch.md",
     "Yan/0. Inbox/Branches.md",
-    "Yan/0. Templates/index.md",
-    "Yan/0. Templates/nota.md",
+    "Yan/0. Inbox/Manejo del repositorio en la terminal.md",
+    "Alberto/0. Inbox/Diario 260829.md",
     "Yan/1. Index/Cosas Interesantes.md",
-    "Yan/2. Notas/GitHub Tutorial.md",
-    "Yan/3. Fuentes",
-    "Yan/1. Index/orphan.md",
-    "ANEXOS/Pasted image 20260730160255.png",
-    "ANEXOS/Pasted image 20260730160009.png",
-    "ANEXOS",
+    "README.md",
+    "Yan/Yan.md",
+    "Yan/0. Templates/nota.md",
+    "Yan/0. Templates/index.md",
     "Yan/0. Inbox/Master.pericial.md",
+    "Yan/0. Inbox/certificado SSH.md",
     "Común/No entiendo lo que es GitHub.md",
     "Común/Pregunta.md",
-    "Yan/0. Templates",
-    "Alberto/Mi primer branch.md",
-    "README.md",
-    "certificado SSH.md",
-    "Alberto/index.alberto.md",
-    "Yan/2. Notas",
-    "Yan/1. Index",
-    "Yan/0. Inbox",
-    "Yan/Untitled.md",
-    "oniichan",
-    "Alberto/Diario 260829.md",
-    "Yan",
-    "Común",
-    "Ti.md",
+    "ANEXOS/Pasted image 20260730160255.png",
+    "ANEXOS/Pasted image 20260730160009.png",
+    "Alberto/0. Inbox",
     "Alberto/Alberto.md",
-    "Alberto"
+    "certificado SSH.md",
+    "Yan/2. Notas/GitHub Tutorial.md",
+    "Yan/2. Notas/Cuchillos de hoja fija.md",
+    "Yan/2. Notas",
+    "Yan/1. Index/orphan.md",
+    "Yan/1. Index",
+    "Yan/0. Templates",
+    "Yan/0. Inbox",
+    "Común",
+    "ANEXOS",
+    "Yan/README.md",
+    "oniichan",
+    "Yan/Master.pericial.md",
+    "Yan",
+    "Mi primer branch.md",
+    "Hilos/Pregunta.md",
+    "Hilos/No entiendo lo que es GitHub.md",
+    "Hilos"
   ]
 }
