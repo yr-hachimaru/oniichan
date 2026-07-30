@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yan/README.md",
+                "file": "Mi primer branch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Mi primer branch"
             }
           }
         ]
@@ -207,19 +207,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "0f9e3bf36aa35271",
+  "active": "47550153eb294e41",
   "lastOpenFiles": [
+    "GitHub Tutorial.md",
+    "Branches.md",
+    "Mi primer branch.md",
+    "Yan/README.md",
     "oniichan",
     "Yan/Yan.md",
-    "Yan/README.md",
     "Yan/Master.pericial.md",
     "Yan",
-    "Mi primer branch.md",
     "Hilos/Pregunta.md",
     "Hilos/No entiendo lo que es GitHub.md",
     "Hilos",
-    "GitHub Tutorial.md",
-    "Branches.md",
     "conflict-files-obsidian-git.md",
     "Alberto/index.alberto.md",
     "Ti.md",
