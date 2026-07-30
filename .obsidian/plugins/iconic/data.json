@@ -193,6 +193,17 @@
         "a199555f456d5252"
       ],
       "color": "#ffffff"
+    },
+    "Yan": {
+      "icon": "lucide-sun",
+      "color": "yellow",
+      "unsynced": [
+        "4df091c4e7926efb"
+      ]
+    },
+    "Yan/Yan.md": {
+      "icon": "lucide-contact-round",
+      "color": "#ffffff"
     }
   },
   "bookmarkIcons": {},
@@ -235,7 +246,7 @@
       "match": "all",
       "conditions": [
         {
-          "source": "tree",
+          "source": "path",
           "operator": "contains",
           "value": "0."
         }

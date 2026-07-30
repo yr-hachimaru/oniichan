@@ -73,16 +73,6 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "d6f80296b80d6115",
-            "type": "leaf",
-            "state": {
-              "type": "vertical-tabs",
-              "state": {},
-              "icon": "vertical-tabs",
-              "title": "Vertical tabs"
-            }
           }
         ]
       }
@@ -209,11 +199,13 @@
   },
   "active": "47550153eb294e41",
   "lastOpenFiles": [
+    "Yan/0. Templates/nota.md",
     "Yan/Yan.md",
+    "Yan/0. Templates",
     "Alberto/Mi primer branch.md",
     "README.md",
     "Yan/2. Nota/GitHub Tutorial.md",
-    "Yan/2. Nota/Branches.md",
+    "Yan/0. Inbox/Branches.md",
     "certificado SSH.md",
     "Yan/2. Nota/Master.pericial.md",
     "Alberto/index.alberto.md",
