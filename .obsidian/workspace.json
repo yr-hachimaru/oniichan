@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alberto/Diario 260829.md",
+                "file": "Mi primer branch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diario 260829"
+              "title": "Mi primer branch"
             }
           }
         ]
@@ -209,12 +209,9 @@
   },
   "active": "47550153eb294e41",
   "lastOpenFiles": [
-    "Alberto/index.alberto.md",
-    "certificado SSH.md",
+    "GitHub Tutorial.md",
     "Branches.md",
     "Mi primer branch.md",
-    "Alberto/Diario 260829.md",
-    "GitHub Tutorial.md",
     "Yan/README.md",
     "oniichan",
     "Yan/Yan.md",
@@ -224,6 +221,7 @@
     "Hilos/No entiendo lo que es GitHub.md",
     "Hilos",
     "conflict-files-obsidian-git.md",
+    "Alberto/index.alberto.md",
     "Ti.md",
     "Alberto/Alberto.md",
     "Alberto"
