@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alberto/Mi primer branch.md",
+                "file": "Yan/Yan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mi primer branch"
+              "title": "Yan"
             }
           }
         ]
@@ -207,8 +207,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "0f9e3bf36aa35271",
+  "active": "47550153eb294e41",
   "lastOpenFiles": [
+    "Yan/Yan.md",
+    "Alberto/Mi primer branch.md",
     "README.md",
     "Yan/2. Nota/GitHub Tutorial.md",
     "Yan/2. Nota/Branches.md",
@@ -221,8 +223,6 @@
     "Yan/Untitled.md",
     "oniichan",
     "Alberto/Diario 260829.md",
-    "Alberto/Mi primer branch.md",
-    "Yan/Yan.md",
     "Yan",
     "Hilos/Pregunta.md",
     "Hilos/No entiendo lo que es GitHub.md",
