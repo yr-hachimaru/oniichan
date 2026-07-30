@@ -74,20 +74,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 53,
+      "wordCount": 60,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 361,
-      "nonWhitespaceCharacterCount": 297,
-      "newlineCount": 12,
-      "readingTimeInMinutes": 0.2,
+      "pageCount": 0.2,
+      "characterCount": 430,
+      "nonWhitespaceCharacterCount": 354,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.22641509433962265,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1785418239327,
-      "modifiedDate": 1785419049224,
-      "sizeInBytes": 369,
+      "modifiedDate": 1785421185769,
+      "sizeInBytes": 438,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.15,
@@ -263,22 +263,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 4,
+      "wordCount": 9,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 38,
-      "nonWhitespaceCharacterCount": 28,
-      "newlineCount": 7,
-      "readingTimeInMinutes": 0.01509433962264151,
+      "pageCount": 0.03,
+      "characterCount": 98,
+      "nonWhitespaceCharacterCount": 69,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.033962264150943396,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": [
-        "nota"
+        "Artículo"
       ],
       "createdDate": 1785419073064,
-      "modifiedDate": 1785419594844,
-      "sizeInBytes": 83,
+      "modifiedDate": 1785420969516,
+      "sizeInBytes": 156,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -289,11 +289,12 @@
       },
       "frontmatter": {
         "aliases": [
-          "nota"
+          "Artículo"
         ],
         "tags": [
-          "plantilla"
-        ]
+          "null"
+        ],
+        "tipo": "nota"
       }
     },
     "Común/No entiendo lo que es GitHub.md": {
@@ -354,20 +355,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 4,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 27,
-      "nonWhitespaceCharacterCount": 23,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.01509433962264151,
-      "linkCount": 1,
+      "pageCount": 0.05,
+      "characterCount": 152,
+      "nonWhitespaceCharacterCount": 127,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Índice"
+      ],
       "createdDate": 1785419429746,
-      "modifiedDate": 1785419451083,
-      "sizeInBytes": 27,
+      "modifiedDate": 1785421031097,
+      "sizeInBytes": 209,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -375,6 +378,15 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Índice"
+        ],
+        "tags": [
+          "misc"
+        ],
+        "tipo": "index"
       }
     },
     "Yan/1. Index/orphan.md": {
@@ -408,20 +420,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 22,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 243,
+      "nonWhitespaceCharacterCount": 204,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.0830188679245283,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Índice"
+      ],
       "createdDate": 1785419798434,
-      "modifiedDate": 1785419798434,
-      "sizeInBytes": 0,
+      "modifiedDate": 1785420691190,
+      "sizeInBytes": 301,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -429,33 +443,15 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "Yan/0. Inbox/Cuchillos de hoja fija.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 32,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 371,
-      "nonWhitespaceCharacterCount": 312,
-      "newlineCount": 20,
-      "readingTimeInMinutes": 0.12075471698113208,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1785419451906,
-      "modifiedDate": 1785420157666,
-      "sizeInBytes": 373,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Índice"
+        ],
+        "tags": [
+          "null"
+        ],
+        "tipo": "index"
       }
     },
     "Yan/0. Inbox/Master.pericial.md": {
@@ -564,6 +560,44 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "Yan/2. Notas/Cuchillos de hoja fija.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 34,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 401,
+      "nonWhitespaceCharacterCount": 345,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 0.12830188679245283,
+      "linkCount": 1,
+      "embedCount": 2,
+      "aliases": [
+        "Artículo"
+      ],
+      "createdDate": 1785419451906,
+      "modifiedDate": 1785421139160,
+      "sizeInBytes": 461,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Artículo"
+        ],
+        "tags": [
+          "null"
+        ],
+        "tipo": "nota"
       }
     }
   }

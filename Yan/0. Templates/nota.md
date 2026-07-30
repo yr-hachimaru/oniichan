@@ -1,11 +1,20 @@
 ---
 aliases:
-  - nota
+  - Artículo
 tags:
-  - plantilla
+  - "null"
+tipo: nota
 ---
-## META
-- [[orphan]]
-## BODY
 
-## SOURCE
+> [!NOTE] METADATA
+>  INDEX : [[orphan]]
+
+# BODY
+- - -
+## Head
+## Body
+## Tail
+
+
+# SOURCE
+- - -

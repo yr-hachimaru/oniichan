@@ -1,14 +1,18 @@
+---
+aliases:
+  - Artículo
+tags:
+  - "null"
+tipo: nota
+---
 
-## META
-- - -
-- INDEX :  [[Cosas Interesantes]]
+> [!NOTE] METADATA
+>  INDEX : [[Cosas Interesantes]]
+>
+> Selección de cuchillos de hoja fija legales, asequibles, con prestigio y garantía. 
 
 ## BODY
 - - -
-
-> [!NOTE] Title
-> Selección de cuchillos de hoja fija legales, asequibles, con prestigio y garantía. 
-
 ### Coldsteel Tanto KOBUN Verde Musgo ([Link](https://www.knivesandtools.es/es/pt/-cold-steel-kobun-17todbk-daga.htm))
 
 ![[Pasted image 20260730160009.png|800]]
