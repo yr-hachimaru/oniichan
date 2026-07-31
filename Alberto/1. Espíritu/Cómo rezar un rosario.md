@@ -27,7 +27,7 @@ Esta misiva tiene la intención de dar a conocer una poderosa herramienta espiri
 ## Cómo rezar un Santo Rosario con un rosario tradicional
 
 1. Tener un [[rosario]] y cogerlo por la Cruz.
-2. Realizar la Señal de la Cruz:
+2. Realizar la Señal de la Cruz.
 ---
 >  Por la señal de la cruz (realizar una cruz sobre la frente)
 >  De nuestro enemigos (realizar una cruz sobre la boca)
@@ -46,7 +46,7 @@ Esta misiva tiene la intención de dar a conocer una poderosa herramienta espiri
 >  Dios mío, ven en mi auxilio
 >  Señor, date prisa en socorrerme
 ---
-4. Se enuncian aquellas peticiones por las que se va a ofrecer el Rosario y se recita el Credo y el Acto de Contrición:
+4. Se enuncian aquellas peticiones por las que se va a ofrecer el Rosario y se recita el Credo y el Acto de Contrición.
 --- 
 ### Credo
 >  Creo en Dios, Padre todopoderoso,
@@ -152,7 +152,7 @@ Esta misiva tiene la intención de dar a conocer una poderosa herramienta espiri
 > 	 La Asunción de Nuestra Señora (Cantar 2:3-6,10).
 > 	 La Coronación de María Santísima (Cantar 6:10; Lucas 1:51-54).
 ---
-Jaculatoria a la Virgen
+### Jaculatoria a la Virgen
 >  María, Madre de Gracia, Madre de Misericordia
 >  defiéndenos de nuestros enemigos y ampáranos
 >  ahora y en la hora de nuestras muertes
@@ -187,7 +187,7 @@ las promesas de Nuestro Señor
 Jesucristo. Amén.
 ---
 8. Se realiza una oración por las intenciones del Santo Padre, la cual consta de 1 Padrenuestro, 3 Ave María y 1 Gloria.
-9. De manera opcional, se recitan las Letanías de la Santísima Virgen María
+9. De manera opcional, se recitan las Letanías de la Santísima Virgen María.
 ---
 ### Letanías de la Santísima Virgen María
 >  V. Señor, ten piedad de nosotros.
@@ -214,7 +214,7 @@ Jesucristo. Amén.
 >  R. Ruega por nosotros
 >  Santa Madre de Dios
 >  R. "
->  Santa Virgen de las vírgenes
+>  Santa Virgen de las Vírgenes
 >  R. "
 >  Madre de Cristo
 >  R. "
@@ -222,17 +222,19 @@ Jesucristo. Amén.
 >  R. "
 >  Madre de la divina gracia
 >  R. "
->  Madre purísima
+>  Madre Purísima
 >  R. "
->  Madre castísima
+>  Madre Castísima
 >  R. "
->  Madre virginal
+>  Madre Virginal
 >  R. "
 >  Madre sin mancha de pecado
 >  R. "
->  Madre inmaculada
+>  Madre Inmaculada
 >  R. "
->  Madre amable
+>  Madre Amable
+>  R. "
+>  Madre Admirable
 >  R. "
 >  Madre del Buen Consejo
 >  R. "
@@ -240,68 +242,96 @@ Jesucristo. Amén.
 >  R. "
 >  Madre del Salvador
 >  R. "
->  Virgen prudentísima
+>  Madre de la Iglesia
+>  R. "
+>  Virgen Prudentísima
 >  R. "
 >  Virgen digna de veneración
 >  R. "
 >  Virgen digna de alabanza
 >  R. "
->  Virgen poderosa
+>  Virgen Poderosa
 >  R. "
->  Virgen clemente
->  
->  Virgen fiel
->  Espejo de justicia
->  Trono de sabiduría
+>  Virgen Clemente
+>  R. "
+>  Virgen Fiel
+>  R. "
+>  Espejo de Justicia
+>  R. "
+>  Trono de Sabiduría
+>  R. "
 >  Causa de nuestra alegría
+>  R. "
 >  Vaso espiritual
+>  R. "
 >  Vaso digno de honor
+>  R. "
 >  Vaso insigne de devoción
->  Rosa mística
+>  R. "
+>  Rosa Mística
+>  R. "
 >  Torre de David
+>  R. "
 >  Torre de marfil
->  Casa de oro
->  Arca de la alianza
->  Puerta del cielo
+>  R. "
+>  Casa de Oro
+>  R. "
+>  Arca de la Alianza
+>  R. "
+>  Puerta del Cielo
+>  R. "
 >  Estrella de la mañana
+>  R. "
 >  Salud de los enfermos
+>  R. "
 >  Refugio de los pecadores
+>  R. "
 >  Consuelo de los afligidos
+>  R. "
 >  Auxilio de los cristianos
+>  R. "
 >  Reina de los Ángeles
+>  R. "
 >  Reina de los Patriarcas
+>  R. "
 >  Reina de los Profetas
+>  R. "
 >  Reina de los Apóstoles
+>  R. "
 >  Reina de los Mártires
+>  R. "
 >  Reina de los Confesores
+>  R. "
 >  Reina de las Vírgenes
+>  R. "
 >  Reina de todos los Santos
+>  R. "
 >  Reina concebida sin pecado original
->  Reina elevada al cielo
+>  R. "
+>  Reina elevada al Cielo
+>  R. "
 >  Reina del Santísimo Rosario
->  Reina de la familia
+>  R. "
 >  Reina de la paz
->  V. Cordero de Dios, que quitas los
->  pecados del mundo. R. Perdónanos,
->  Señor
->  V. Cordero de Dios, que quitas los
->  pecados del mundo. R. Escúchanos,
->  Señor
->  V. Cordero de Dios, que quitas los
->  pecados del mundo. R. Ten misericordia
->  de nosotros
->  V. Ruega por nosotros, Santa Madre de
->  Dios. R. Para que seamos dignos de
->  alcanzar las promesas de nuestro Señor
->  Jesucristo.
->  Oremos: Te suplicamos, Señor, que
->  derrames tu gracia en nuestras almas
->  para que los que, por el anuncio del
->  Ángel, hemos conocido la Encarnación
->  de tu Hijo Jesucristo, por su Pasión y
->  Cruz, seamos llevados a la gloria de su
->  Resurrección. Por el mismo Jesucristo
->  nuestro Señor. R. Amén.
+>  R. "
+>  
+>  V. Cordero de Dios, que quitas el pecado del mundo.
+>  R. Perdónanos, Señor
+>  V. Cordero de Dios, que quitas el pecado del mundo. 
+>  R. Escúchanos, Señor
+>  V. Cordero de Dios, que quitas el pecado del mundo. 
+>  R. Ten misericordia de nosotros
+>  V. Ruega por nosotros, Santa Madre de Dios. 
+>  R. Para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo.
+>  
+>  Oremos: 
+>  Te rogamos, Señor, que derrames tu gracia en nuestras almas para que los que, por el anuncio del Ángel, hemos conocido la Encarnación de tu Hijo Jesucristo, por su Pasión y Cruz, seamos llevados a la gloria de su Resurrección. 
+>  Por el Jesucristo nuestro Señor. 
+>  Amén.
+>  
+>  Ave María Purísima, sin pecado concebida
+---
+10. Se termina con una Señal de la Cruz.
 
 ## Discusión
 
