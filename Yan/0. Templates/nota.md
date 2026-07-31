@@ -9,11 +9,10 @@ tipo: nota
 > [!NOTE] METADATA
 >  INDEX : [[orphan]]
 
-# CUERPO
+# BODY
 - - -
 
 
-# FUENTE
+
+# SOURCE
 - - -
-
-
